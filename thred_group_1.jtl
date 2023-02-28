@@ -1,0 +1,11 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1677586095332,189,GET List Users,200,OK,2 users - 10 seconds - 1 loop 1-1,text,true,,1749,159,1,1,https://reqres.in/api/users?page=2,189,0,123
+1677586095522,67,GET Single User,200,OK,2 users - 10 seconds - 1 loop 1-1,text,true,,993,154,1,1,https://reqres.in/api/users/2,67,0,0
+1677586095590,416,POST Create User,201,Created,2 users - 10 seconds - 1 loop 1-1,text,true,,742,223,1,1,https://reqres.in/api/users,416,0,0
+1677586096006,432,PUT Update User,200,OK,2 users - 10 seconds - 1 loop 1-1,text,true,,735,231,1,1,https://reqres.in/api/users/2,432,0,0
+1677586096439,666,DELETE Delete User,204,No Content,2 users - 10 seconds - 1 loop 1-1,,true,,614,176,1,1,https://reqres.in/api/users/2,0,0,0
+1677586100336,215,GET List Users,200,OK,2 users - 10 seconds - 1 loop 1-2,text,true,,1751,159,1,1,https://reqres.in/api/users?page=2,215,0,160
+1677586100552,52,GET Single User,200,OK,2 users - 10 seconds - 1 loop 1-2,text,true,,1000,154,1,1,https://reqres.in/api/users/2,52,0,0
+1677586100604,401,POST Create User,201,Created,2 users - 10 seconds - 1 loop 1-2,text,true,,744,223,1,1,https://reqres.in/api/users,401,0,0
+1677586101006,417,PUT Update User,200,OK,2 users - 10 seconds - 1 loop 1-2,text,true,,735,231,1,1,https://reqres.in/api/users/2,417,0,0
+1677586101424,403,DELETE Delete User,204,No Content,2 users - 10 seconds - 1 loop 1-2,,true,,610,176,1,1,https://reqres.in/api/users/2,0,0,0

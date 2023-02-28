@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1677586143703,148,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-1,text,true,,1745,159,1,1,https://reqres.in/api/users?page=2,148,0,99
+1677586143852,296,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-1,text,true,,996,154,1,1,https://reqres.in/api/users/2,296,0,0
+1677586144149,418,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-1,text,true,,744,223,1,1,https://reqres.in/api/users,418,0,0
+1677586144568,420,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-1,text,true,,733,231,2,2,https://reqres.in/api/users/2,420,0,0
+1677586144705,484,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-2,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,484,0,91
+1677586144989,390,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-1,,true,,618,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586145190,332,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-2,text,true,,996,154,1,1,https://reqres.in/api/users/2,332,0,0
+1677586145705,143,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-3,text,true,,1753,159,2,2,https://reqres.in/api/users?page=2,142,0,93
+1677586145848,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-3,text,true,,994,154,2,2,https://reqres.in/api/users/2,50,0,0
+1677586145523,420,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-2,text,true,,744,223,2,2,https://reqres.in/api/users,420,0,0
+1677586145898,404,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-3,text,true,,743,223,2,2,https://reqres.in/api/users,404,0,0
+1677586145943,416,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-2,text,true,,735,231,2,2,https://reqres.in/api/users/2,416,0,0
+1677586146359,434,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-2,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586146703,168,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-4,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,168,0,118
+1677586146871,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-4,text,true,,1002,154,2,2,https://reqres.in/api/users/2,49,0,0
+1677586146303,639,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-3,text,true,,739,231,2,2,https://reqres.in/api/users/2,639,0,0
+1677586146942,388,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-3,,true,,618,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586146921,416,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-4,text,true,,750,223,1,1,https://reqres.in/api/users,416,0,0
+1677586147337,393,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-4,text,true,,733,231,2,2,https://reqres.in/api/users/2,393,0,0
+1677586147706,142,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-5,text,true,,1749,159,2,2,https://reqres.in/api/users?page=2,142,0,94
+1677586147849,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-5,text,true,,1000,154,2,2,https://reqres.in/api/users/2,49,0,0
+1677586147730,661,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-4,,true,,620,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586147899,902,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-5,text,true,,742,223,2,2,https://reqres.in/api/users,902,0,0
+1677586148704,204,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-6,text,true,,1743,159,2,2,https://reqres.in/api/users?page=2,204,0,95
+1677586148908,294,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-6,text,true,,994,154,2,2,https://reqres.in/api/users/2,294,0,0
+1677586148801,430,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-5,text,true,,733,231,2,2,https://reqres.in/api/users/2,430,0,0
+1677586149231,389,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-5,,true,,618,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586149203,421,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-6,text,true,,746,223,1,1,https://reqres.in/api/users,421,0,0
+1677586149705,310,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-7,text,true,,1751,159,2,2,https://reqres.in/api/users?page=2,310,0,124
+1677586149625,426,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-6,text,true,,735,231,2,2,https://reqres.in/api/users/2,426,0,0
+1677586150015,61,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-7,text,true,,998,154,2,2,https://reqres.in/api/users/2,61,0,0
+1677586150052,394,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-6,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586150077,405,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-7,text,true,,750,223,1,1,https://reqres.in/api/users,405,0,0
+1677586150483,680,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-7,text,true,,741,231,2,2,https://reqres.in/api/users/2,680,0,0
+1677586151163,411,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-7,,true,,616,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586150705,1176,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-8,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,1176,0,1118
+1677586151882,547,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-8,text,true,,996,154,2,2,https://reqres.in/api/users/2,547,0,0
+1677586152705,146,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-10,text,true,,1745,159,3,3,https://reqres.in/api/users?page=2,146,0,95
+1677586152852,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-10,text,true,,1002,154,3,3,https://reqres.in/api/users/2,50,0,0
+1677586152429,711,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-8,text,true,,740,223,3,3,https://reqres.in/api/users,711,0,0
+1677586151706,1532,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-9,text,true,,1751,159,3,3,https://reqres.in/api/users?page=2,1214,0,1134
+1677586153238,61,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-9,text,true,,998,154,3,3,https://reqres.in/api/users/2,61,0,0
+1677586152902,406,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-10,text,true,,740,223,3,3,https://reqres.in/api/users,406,0,0
+1677586153140,393,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-8,text,true,,735,231,3,3,https://reqres.in/api/users/2,393,0,0
+1677586153309,387,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-10,text,true,,741,231,3,3,https://reqres.in/api/users/2,387,0,0
+1677586153299,411,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-9,text,true,,748,223,4,4,https://reqres.in/api/users,411,0,0
+1677586153533,396,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-8,,true,,618,176,4,4,https://reqres.in/api/users/2,0,0,0
+1677586153697,386,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-10,,true,,616,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586153711,663,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-9,text,true,,733,231,2,2,https://reqres.in/api/users/2,663,0,0
+1677586154375,412,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-9,,true,,612,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586154704,187,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-12,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,187,0,124
+1677586154892,65,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-12,text,true,,992,154,2,2,https://reqres.in/api/users/2,65,0,0
+1677586154957,407,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-12,text,true,,746,223,2,2,https://reqres.in/api/users,407,0,0
+1677586155364,404,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-12,text,true,,733,231,3,3,https://reqres.in/api/users/2,404,0,0
+1677586155705,305,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-13,text,true,,1751,159,3,3,https://reqres.in/api/users?page=2,264,0,159
+1677586156010,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-13,text,true,,996,154,3,3,https://reqres.in/api/users/2,49,0,0
+1677586155769,404,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-12,,true,,612,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586156060,404,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-13,text,true,,746,223,2,2,https://reqres.in/api/users,404,0,0
+1677586156708,149,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-14,text,true,,1747,159,3,3,https://reqres.in/api/users?page=2,149,0,95
+1677586156464,403,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-13,text,true,,735,231,3,3,https://reqres.in/api/users/2,403,0,0
+1677586156857,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-14,text,true,,1004,154,3,3,https://reqres.in/api/users/2,48,0,0
+1677586156906,439,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-14,text,true,,746,223,3,3,https://reqres.in/api/users,439,0,0
+1677586156868,648,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-13,,true,,612,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586157345,404,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-14,text,true,,735,231,3,3,https://reqres.in/api/users/2,404,0,0
+1677586157751,646,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-14,,true,,618,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586157705,1150,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-15,text,true,,1749,159,3,3,https://reqres.in/api/users?page=2,1150,0,1102
+1677586158855,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-15,text,true,,1000,154,3,3,https://reqres.in/api/users/2,48,0,0
+1677586153706,5241,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-11,text,true,,1753,159,3,3,https://reqres.in/api/users?page=2,5241,0,5134
+1677586158949,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-11,text,true,,1002,154,3,3,https://reqres.in/api/users/2,49,0,0
+1677586158707,445,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-16,text,true,,1753,159,3,3,https://reqres.in/api/users?page=2,153,0,98
+1677586159153,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-16,text,true,,998,154,3,3,https://reqres.in/api/users/2,50,0,0
+1677586158904,455,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-15,text,true,,742,223,3,3,https://reqres.in/api/users,455,0,0
+1677586158999,390,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-11,text,true,,742,223,3,3,https://reqres.in/api/users,390,0,0
+1677586159389,385,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-11,text,true,,733,231,4,4,https://reqres.in/api/users/2,385,0,0
+1677586159203,668,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-16,text,true,,744,223,4,4,https://reqres.in/api/users,668,0,0
+1677586159706,201,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-17,text,true,,1743,159,4,4,https://reqres.in/api/users?page=2,201,0,96
+1677586159908,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-17,text,true,,996,154,4,4,https://reqres.in/api/users/2,50,0,0
+1677586159359,657,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-15,text,true,,737,231,4,4,https://reqres.in/api/users/2,657,0,0
+1677586159775,390,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-11,,true,,616,176,4,4,https://reqres.in/api/users/2,0,0,0
+1677586159872,413,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-16,text,true,,737,231,3,3,https://reqres.in/api/users/2,413,0,0
+1677586159959,414,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-17,text,true,,742,223,3,3,https://reqres.in/api/users,414,0,0
+1677586160285,384,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-16,,true,,612,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586160016,662,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-15,,true,,612,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586160373,388,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-17,text,true,,735,231,2,2,https://reqres.in/api/users/2,388,0,0
+1677586160705,154,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-18,text,true,,1751,159,2,2,https://reqres.in/api/users?page=2,154,0,107
+1677586160859,56,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-18,text,true,,998,154,2,2,https://reqres.in/api/users/2,55,0,0
+1677586160762,388,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-17,,true,,620,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586160915,654,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-18,text,true,,742,223,1,1,https://reqres.in/api/users,654,0,0
+1677586161707,204,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-19,text,true,,1751,159,2,2,https://reqres.in/api/users?page=2,204,0,157
+1677586161912,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-19,text,true,,1000,154,2,2,https://reqres.in/api/users/2,49,0,0
+1677586161569,402,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-18,text,true,,733,231,2,2,https://reqres.in/api/users/2,402,0,0
+1677586161971,388,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-18,,true,,620,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586161961,422,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-19,text,true,,740,223,1,1,https://reqres.in/api/users,422,0,0
+1677586162383,665,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-19,text,true,,737,231,2,2,https://reqres.in/api/users/2,665,0,0
+1677586163048,640,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-19,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586163710,141,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-21,text,true,,1743,159,2,2,https://reqres.in/api/users?page=2,141,0,94
+1677586163852,47,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-21,text,true,,990,154,2,2,https://reqres.in/api/users/2,47,0,0
+1677586162707,1455,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-20,text,true,,1741,159,2,2,https://reqres.in/api/users?page=2,1455,0,1404
+1677586164162,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-20,text,true,,992,154,2,2,https://reqres.in/api/users/2,50,0,0
+1677586163899,663,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-21,text,true,,746,223,2,2,https://reqres.in/api/users,663,0,0
+1677586164212,644,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-20,text,true,,740,223,3,3,https://reqres.in/api/users,644,0,0
+1677586164563,388,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-21,text,true,,741,231,3,3,https://reqres.in/api/users/2,388,0,0
+1677586164709,398,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-22,text,true,,1751,159,3,3,https://reqres.in/api/users?page=2,398,0,100
+1677586165107,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-22,text,true,,996,154,3,3,https://reqres.in/api/users/2,49,0,0
+1677586164857,412,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-20,text,true,,739,231,3,3,https://reqres.in/api/users/2,412,0,0
+1677586164951,392,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-21,,true,,610,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586165156,431,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-22,text,true,,746,223,2,2,https://reqres.in/api/users,431,0,0
+1677586165270,408,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-20,,true,,620,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586165587,662,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-22,text,true,,737,231,2,2,https://reqres.in/api/users/2,662,0,0
+1677586165710,630,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-23,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,630,0,226
+1677586166340,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-23,text,true,,996,154,2,2,https://reqres.in/api/users/2,48,0,0
+1677586166250,416,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-22,,true,,616,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586166388,654,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-23,text,true,,748,223,2,2,https://reqres.in/api/users,654,0,0
+1677586167043,407,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-23,text,true,,735,231,2,2,https://reqres.in/api/users/2,407,0,0
+1677586167451,401,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-23,,true,,618,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586166706,1453,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-24,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,1168,0,1117
+1677586168159,52,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-24,text,true,,992,154,2,2,https://reqres.in/api/users/2,52,0,0
+1677586168212,415,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-24,text,true,,742,223,2,2,https://reqres.in/api/users,415,0,0
+1677586168628,389,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-24,text,true,,737,231,3,3,https://reqres.in/api/users/2,389,0,0
+1677586167707,1450,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-25,text,true,,1753,159,3,3,https://reqres.in/api/users?page=2,1159,0,1112
+1677586168706,455,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-26,text,true,,1745,159,3,3,https://reqres.in/api/users?page=2,455,0,401
+1677586169162,53,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-26,text,true,,1002,154,3,3,https://reqres.in/api/users/2,53,0,0
+1677586169017,404,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-24,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586169157,299,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-25,text,true,,992,154,2,2,https://reqres.in/api/users/2,299,0,0
+1677586169215,420,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-26,text,true,,748,223,2,2,https://reqres.in/api/users,420,0,0
+1677586169707,160,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-27,text,true,,1743,159,3,3,https://reqres.in/api/users?page=2,160,0,111
+1677586169456,419,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-25,text,true,,750,223,3,3,https://reqres.in/api/users,419,0,0
+1677586169868,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-27,text,true,,1000,154,3,3,https://reqres.in/api/users/2,49,0,0
+1677586169636,418,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-26,text,true,,737,231,3,3,https://reqres.in/api/users/2,418,0,0
+1677586169875,392,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-25,text,true,,743,231,3,3,https://reqres.in/api/users/2,392,0,0
+1677586169917,387,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-27,text,true,,754,223,3,3,https://reqres.in/api/users,387,0,0
+1677586170054,388,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-26,,true,,612,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586170305,387,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-27,text,true,,739,231,2,2,https://reqres.in/api/users/2,387,0,0
+1677586170707,211,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-28,text,true,,1751,159,3,3,https://reqres.in/api/users?page=2,209,0,153
+1677586170268,653,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-25,,true,,620,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586170919,55,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-28,text,true,,998,154,2,2,https://reqres.in/api/users/2,55,0,0
+1677586170974,396,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-28,text,true,,748,223,2,2,https://reqres.in/api/users,396,0,0
+1677586170693,913,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-27,,true,,610,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586171371,409,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-28,text,true,,735,231,2,2,https://reqres.in/api/users/2,409,0,0
+1677586171705,160,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-29,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,160,0,111
+1677586171866,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-29,text,true,,996,154,2,2,https://reqres.in/api/users/2,50,0,0
+1677586171781,402,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-28,,true,,616,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586171917,643,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-29,text,true,,754,223,1,1,https://reqres.in/api/users,643,0,0
+1677586172561,657,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-29,text,true,,733,231,2,2,https://reqres.in/api/users/2,657,0,0
+1677586173218,414,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-29,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586172705,1548,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-30,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,1548,0,1113
+1677586173706,574,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-31,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,574,0,122
+1677586174253,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-30,text,true,,1000,154,2,2,https://reqres.in/api/users/2,50,0,0
+1677586174280,62,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-31,text,true,,994,154,2,2,https://reqres.in/api/users/2,62,0,0
+1677586174303,389,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-30,text,true,,742,223,2,2,https://reqres.in/api/users,389,0,0
+1677586174342,396,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-31,text,true,,752,223,3,3,https://reqres.in/api/users,396,0,0
+1677586174705,150,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-32,text,true,,1743,159,3,3,https://reqres.in/api/users?page=2,150,0,103
+1677586174855,47,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-32,text,true,,1002,154,3,3,https://reqres.in/api/users/2,47,0,0
+1677586174693,388,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-30,text,true,,735,231,3,3,https://reqres.in/api/users/2,388,0,0
+1677586174739,679,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-31,text,true,,737,231,3,3,https://reqres.in/api/users/2,678,0,0
+1677586175081,666,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-30,,true,,614,176,4,4,https://reqres.in/api/users/2,0,0,0
+1677586174903,909,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-32,text,true,,742,223,3,3,https://reqres.in/api/users,909,0,0
+1677586175418,433,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-31,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586175813,410,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-32,text,true,,733,231,2,2,https://reqres.in/api/users/2,410,0,0
+1677586176223,410,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-32,,true,,612,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586176707,154,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-34,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,154,0,105
+1677586176862,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-34,text,true,,1002,154,2,2,https://reqres.in/api/users/2,48,0,0
+1677586175706,1577,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-33,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,1577,0,1107
+1677586176910,405,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-34,text,true,,746,223,2,2,https://reqres.in/api/users,405,0,0
+1677586177284,52,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-33,text,true,,998,154,2,2,https://reqres.in/api/users/2,52,0,0
+1677586177315,398,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-34,text,true,,733,231,3,3,https://reqres.in/api/users/2,398,0,0
+1677586177337,386,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-33,text,true,,740,223,3,3,https://reqres.in/api/users,386,0,0
+1677586177723,399,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-33,text,true,,733,231,3,3,https://reqres.in/api/users/2,399,0,0
+1677586177713,637,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-34,,true,,610,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586178123,404,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-33,,true,,618,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586177705,1168,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-35,text,true,,1753,159,2,2,https://reqres.in/api/users?page=2,1167,0,1112
+1677586178873,51,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-35,text,true,,998,154,2,2,https://reqres.in/api/users/2,51,0,0
+1677586178925,393,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-35,text,true,,748,223,2,2,https://reqres.in/api/users,393,0,0
+1677586178706,772,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-36,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,772,0,709
+1677586179479,62,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-36,text,true,,994,154,2,2,https://reqres.in/api/users/2,62,0,0
+1677586179318,393,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-35,text,true,,733,231,3,3,https://reqres.in/api/users/2,393,0,0
+1677586179541,425,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-36,text,true,,740,223,3,3,https://reqres.in/api/users,425,0,0
+1677586179706,539,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-37,text,true,,1745,159,3,3,https://reqres.in/api/users?page=2,539,0,107
+1677586180245,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-37,text,true,,992,154,3,3,https://reqres.in/api/users/2,49,0,0
+1677586179711,654,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-35,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586179966,437,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-36,text,true,,737,231,2,2,https://reqres.in/api/users/2,437,0,0
+1677586180294,401,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-37,text,true,,739,223,2,2,https://reqres.in/api/users,401,0,0
+1677586180404,408,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-36,,true,,622,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586180706,157,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-38,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,157,0,103
+1677586180863,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-38,text,true,,1006,154,2,2,https://reqres.in/api/users/2,48,0,0
+1677586180696,401,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-37,text,true,,735,231,2,2,https://reqres.in/api/users/2,401,0,0
+1677586181098,403,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-37,,true,,612,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586180912,654,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-38,text,true,,752,223,1,1,https://reqres.in/api/users,654,0,0
+1677586181705,146,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-39,text,true,,1749,159,2,2,https://reqres.in/api/users?page=2,146,0,97
+1677586181567,386,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-38,text,true,,741,231,2,2,https://reqres.in/api/users/2,386,0,0
+1677586181851,294,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-39,text,true,,1000,154,2,2,https://reqres.in/api/users/2,294,0,0
+1677586181953,411,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-38,,true,,616,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586182145,680,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-39,text,true,,752,223,2,2,https://reqres.in/api/users,680,0,0
+1677586182704,156,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-40,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,156,0,107
+1677586182861,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-40,text,true,,992,154,2,2,https://reqres.in/api/users/2,48,0,0
+1677586182825,389,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-39,text,true,,729,231,2,2,https://reqres.in/api/users/2,389,0,0
+1677586182910,403,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-40,text,true,,750,223,2,2,https://reqres.in/api/users,403,0,0
+1677586183313,392,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-40,text,true,,747,231,3,3,https://reqres.in/api/users/2,392,0,0
+1677586183706,151,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-41,text,true,,1749,159,3,3,https://reqres.in/api/users?page=2,151,0,101
+1677586183214,643,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-39,,true,,610,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586183857,47,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-41,text,true,,998,154,2,2,https://reqres.in/api/users/2,47,0,0
+1677586183705,424,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-40,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586183904,393,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-41,text,true,,748,223,1,1,https://reqres.in/api/users,393,0,0
+1677586184297,416,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-41,text,true,,737,231,2,2,https://reqres.in/api/users/2,416,0,0
+1677586184705,157,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-42,text,true,,1751,159,2,2,https://reqres.in/api/users?page=2,157,0,109
+1677586184862,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-42,text,true,,1000,154,2,2,https://reqres.in/api/users/2,49,0,0
+1677586184714,387,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-41,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586184912,645,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-42,text,true,,746,223,1,1,https://reqres.in/api/users,645,0,0
+1677586185704,146,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-43,text,true,,1755,159,2,2,https://reqres.in/api/users?page=2,146,0,97
+1677586185851,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-43,text,true,,1002,154,2,2,https://reqres.in/api/users/2,48,0,0
+1677586185557,419,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-42,text,true,,735,231,2,2,https://reqres.in/api/users/2,419,0,0
+1677586185899,404,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-43,text,true,,745,223,2,2,https://reqres.in/api/users,404,0,0
+1677586185976,645,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-42,,true,,612,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586186303,664,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-43,text,true,,733,231,2,2,https://reqres.in/api/users/2,664,0,0
+1677586186967,391,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-43,,true,,610,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586187706,612,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-45,text,true,,1751,159,2,2,https://reqres.in/api/users?page=2,612,0,161
+1677586188319,51,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-45,text,true,,992,154,2,2,https://reqres.in/api/users/2,51,0,0
+1677586188370,417,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-45,text,true,,746,223,3,3,https://reqres.in/api/users,417,0,0
+1677586188716,160,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-46,text,true,,1749,159,3,3,https://reqres.in/api/users?page=2,160,0,105
+1677586188876,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-46,text,true,,994,154,3,3,https://reqres.in/api/users/2,50,0,0
+1677586188787,416,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-45,text,true,,735,231,3,3,https://reqres.in/api/users/2,415,0,0
+1677586188926,411,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-46,text,true,,750,223,3,3,https://reqres.in/api/users,411,0,0
+1677586189203,655,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-45,,true,,610,176,4,4,https://reqres.in/api/users/2,0,0,0
+1677586189338,647,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-46,text,true,,737,231,3,3,https://reqres.in/api/users/2,647,0,0
+1677586189705,1190,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-47,text,true,,1751,159,4,4,https://reqres.in/api/users?page=2,1190,0,1122
+1677586186707,4226,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-44,text,true,,1743,159,4,4,https://reqres.in/api/users?page=2,4225,0,4175
+1677586190896,60,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-47,text,true,,992,154,4,4,https://reqres.in/api/users/2,60,0,0
+1677586190933,47,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-44,text,true,,994,154,4,4,https://reqres.in/api/users/2,47,0,0
+1677586190705,535,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-48,text,true,,1749,159,4,4,https://reqres.in/api/users?page=2,535,0,97
+1677586191241,51,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-48,text,true,,990,154,4,4,https://reqres.in/api/users/2,50,0,0
+1677586190981,392,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-44,text,true,,746,223,4,4,https://reqres.in/api/users,392,0,0
+1677586190956,428,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-47,text,true,,746,223,4,4,https://reqres.in/api/users,428,0,0
+1677586191292,422,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-48,text,true,,746,223,5,5,https://reqres.in/api/users,422,0,0
+1677586191384,423,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-47,text,true,,731,231,5,5,https://reqres.in/api/users/2,423,0,0
+1677586191710,165,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-49,text,true,,1751,159,5,5,https://reqres.in/api/users?page=2,165,0,114
+1677586191876,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-49,text,true,,1002,154,5,5,https://reqres.in/api/users/2,49,0,0
+1677586191715,409,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-48,text,true,,739,231,5,5,https://reqres.in/api/users/2,409,0,0
+1677586189986,2143,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-46,,true,,610,176,5,5,https://reqres.in/api/users/2,0,0,0
+1677586191807,428,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-47,,true,,616,176,4,4,https://reqres.in/api/users/2,0,0,0
+1677586191926,403,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-49,text,true,,750,223,3,3,https://reqres.in/api/users,403,0,0
+1677586192125,396,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-48,,true,,616,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586192329,397,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-49,text,true,,735,231,3,3,https://reqres.in/api/users/2,397,0,0
+1677586191374,1395,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-44,text,true,,743,231,3,3,https://reqres.in/api/users/2,1395,0,0
+1677586192726,393,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-49,,true,,616,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586192703,432,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-50,text,true,,1753,159,2,2,https://reqres.in/api/users?page=2,147,0,98
+1677586193135,51,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-50,text,true,,998,154,2,2,https://reqres.in/api/users/2,51,0,0
+1677586192769,423,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-44,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586193186,646,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-50,text,true,,746,223,2,2,https://reqres.in/api/users,646,0,0
+1677586193832,418,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-50,text,true,,745,231,2,2,https://reqres.in/api/users/2,418,0,0
+1677586194250,412,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-50,,true,,612,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586194707,201,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-52,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,200,0,138
+1677586194908,59,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-52,text,true,,994,154,2,2,https://reqres.in/api/users/2,59,0,0
+1677586194967,682,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-52,text,true,,740,223,2,2,https://reqres.in/api/users,682,0,0
+1677586193704,1969,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-51,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,1969,0,1920
+1677586195673,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-51,text,true,,996,154,3,3,https://reqres.in/api/users/2,50,0,0
+1677586195704,149,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-53,text,true,,1751,159,3,3,https://reqres.in/api/users?page=2,149,0,97
+1677586195853,53,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-53,text,true,,994,154,3,3,https://reqres.in/api/users/2,53,0,0
+1677586195649,427,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-52,text,true,,737,231,3,3,https://reqres.in/api/users/2,427,0,0
+1677586195724,426,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-51,text,true,,746,223,3,3,https://reqres.in/api/users,426,0,0
+1677586195906,419,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-53,text,true,,738,223,3,3,https://reqres.in/api/users,419,0,0
+1677586196077,433,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-52,,true,,612,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586196150,386,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-51,text,true,,735,231,2,2,https://reqres.in/api/users/2,386,0,0
+1677586196326,388,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-53,text,true,,739,231,3,3,https://reqres.in/api/users/2,388,0,0
+1677586196537,390,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-51,,true,,618,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586196714,393,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-53,,true,,618,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586196705,1047,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-54,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,1046,0,996
+1677586197705,156,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-55,text,true,,1757,159,2,2,https://reqres.in/api/users?page=2,156,0,104
+1677586197752,301,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-54,text,true,,998,154,2,2,https://reqres.in/api/users/2,301,0,0
+1677586197862,298,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-55,text,true,,1000,154,2,2,https://reqres.in/api/users/2,297,0,0
+1677586198160,401,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-55,text,true,,746,223,2,2,https://reqres.in/api/users,400,0,0
+1677586198708,162,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-56,text,true,,1755,159,3,3,https://reqres.in/api/users?page=2,162,0,109
+1677586198870,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-56,text,true,,1000,154,3,3,https://reqres.in/api/users/2,50,0,0
+1677586198561,389,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-55,text,true,,737,231,3,3,https://reqres.in/api/users/2,389,0,0
+1677586198053,1144,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-54,text,true,,742,223,3,3,https://reqres.in/api/users,1144,0,0
+1677586198920,404,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-56,text,true,,743,223,3,3,https://reqres.in/api/users,404,0,0
+1677586198950,418,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-55,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586199197,429,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-54,text,true,,731,231,2,2,https://reqres.in/api/users/2,429,0,0
+1677586199325,428,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-56,text,true,,737,231,3,3,https://reqres.in/api/users/2,428,0,0
+1677586199626,404,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-54,,true,,622,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586199753,637,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-56,,true,,616,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586201709,1642,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-59,text,true,,1741,159,4,4,https://reqres.in/api/users?page=2,1642,0,1136
+1677586203352,375,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-59,text,true,,1004,154,5,5,https://reqres.in/api/users/2,375,0,0
+1677586202707,1161,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-60,text,true,,1747,159,5,5,https://reqres.in/api/users?page=2,1158,0,1110
+1677586203728,404,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-59,text,true,,740,223,5,5,https://reqres.in/api/users,404,0,0
+1677586203868,299,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-60,text,true,,992,154,5,5,https://reqres.in/api/users/2,299,0,0
+1677586203706,624,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-61,text,true,,1749,159,5,5,https://reqres.in/api/users?page=2,623,0,116
+1677586204133,427,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-59,text,true,,735,231,5,5,https://reqres.in/api/users/2,427,0,0
+1677586204167,393,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-60,text,true,,746,223,5,5,https://reqres.in/api/users,393,0,0
+1677586204330,360,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-61,text,true,,1002,154,5,5,https://reqres.in/api/users/2,360,0,0
+1677586204706,222,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-62,text,true,,1745,159,6,6,https://reqres.in/api/users?page=2,222,0,118
+1677586204560,391,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-60,text,true,,733,231,6,6,https://reqres.in/api/users/2,391,0,0
+1677586204928,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-62,text,true,,998,154,6,6,https://reqres.in/api/users/2,49,0,0
+1677586204691,414,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-61,text,true,,744,223,6,6,https://reqres.in/api/users,414,0,0
+1677586204951,400,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-60,,true,,616,176,6,6,https://reqres.in/api/users/2,0,0,0
+1677586205105,392,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-61,text,true,,737,231,5,5,https://reqres.in/api/users/2,392,0,0
+1677586204977,650,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-62,text,true,,743,223,5,5,https://reqres.in/api/users,650,0,0
+1677586200707,5171,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-58,text,true,,1747,159,6,6,https://reqres.in/api/users?page=2,5171,0,5118
+1677586205497,401,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-61,,true,,620,176,6,6,https://reqres.in/api/users/2,0,0,0
+1677586205628,402,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-62,text,true,,741,231,5,5,https://reqres.in/api/users/2,402,0,0
+1677586205878,301,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-58,text,true,,996,154,5,5,https://reqres.in/api/users/2,301,0,0
+1677586206180,466,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-58,text,true,,748,223,5,5,https://reqres.in/api/users,466,0,0
+1677586206030,643,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-62,,true,,616,176,5,5,https://reqres.in/api/users/2,0,0,0
+1677586205705,1025,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-63,text,true,,1747,159,5,5,https://reqres.in/api/users?page=2,1025,0,974
+1677586206731,73,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-63,text,true,,1000,154,5,5,https://reqres.in/api/users/2,73,0,0
+1677586206646,398,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-58,text,true,,739,231,5,5,https://reqres.in/api/users/2,398,0,0
+1677586204560,2614,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-59,,true,,618,176,5,5,https://reqres.in/api/users/2,0,0,0
+1677586207044,413,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-58,,true,,612,176,4,4,https://reqres.in/api/users/2,0,0,0
+1677586206805,901,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-63,text,true,,748,223,4,4,https://reqres.in/api/users,901,0,0
+1677586207706,403,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-63,text,true,,737,231,4,4,https://reqres.in/api/users/2,403,0,0
+1677586208111,658,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-63,,true,,610,176,5,5,https://reqres.in/api/users/2,0,0,0
+1677586208706,1148,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-66,text,true,,1753,159,5,5,https://reqres.in/api/users?page=2,1148,0,189
+1677586209705,161,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-67,text,true,,1745,159,5,5,https://reqres.in/api/users?page=2,158,0,108
+1677586209854,78,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-66,text,true,,998,154,5,5,https://reqres.in/api/users/2,78,0,0
+1677586209932,407,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-66,text,true,,744,223,5,5,https://reqres.in/api/users,407,0,0
+1677586209866,549,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-67,text,true,,998,154,5,5,https://reqres.in/api/users/2,549,0,0
+1677586210415,404,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-67,text,true,,738,223,6,6,https://reqres.in/api/users,404,0,0
+1677586210704,282,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-68,text,true,,1747,159,6,6,https://reqres.in/api/users?page=2,282,0,232
+1677586210339,674,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-66,text,true,,737,231,6,6,https://reqres.in/api/users/2,674,0,0
+1677586210986,51,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-68,text,true,,992,154,6,6,https://reqres.in/api/users/2,51,0,0
+1677586210819,396,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-67,text,true,,735,231,6,6,https://reqres.in/api/users/2,396,0,0
+1677586199708,11738,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-57,text,true,,1747,159,6,6,https://reqres.in/api/users?page=2,11738,0,11673
+1677586211013,434,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-66,,true,,612,176,6,6,https://reqres.in/api/users/2,0,0,0
+1677586211038,416,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-68,text,true,,748,223,5,5,https://reqres.in/api/users,416,0,0
+1677586211447,47,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-57,text,true,,994,154,5,5,https://reqres.in/api/users/2,47,0,0
+1677586211454,385,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-68,text,true,,747,231,6,6,https://reqres.in/api/users/2,385,0,0
+1677586211215,640,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-67,,true,,614,176,6,6,https://reqres.in/api/users/2,0,0,0
+1677586206705,5217,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-64,text,true,,1747,159,5,5,https://reqres.in/api/users?page=2,5216,0,5166
+1677586211922,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-64,text,true,,998,154,5,5,https://reqres.in/api/users/2,48,0,0
+1677586211705,290,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-69,text,true,,1743,159,5,5,https://reqres.in/api/users?page=2,290,0,241
+1677586211494,687,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-57,text,true,,744,223,5,5,https://reqres.in/api/users,687,0,0
+1677586211840,388,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-68,,true,,612,176,5,5,https://reqres.in/api/users/2,0,0,0
+1677586211995,300,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-69,text,true,,1000,154,4,4,https://reqres.in/api/users/2,300,0,0
+1677586211971,415,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-64,text,true,,742,223,4,4,https://reqres.in/api/users,415,0,0
+1677586212295,397,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-69,text,true,,748,223,4,4,https://reqres.in/api/users,397,0,0
+1677586212387,417,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-64,text,true,,743,231,5,5,https://reqres.in/api/users/2,417,0,0
+1677586212182,672,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-57,text,true,,735,231,5,5,https://reqres.in/api/users/2,672,0,0
+1677586212705,152,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-70,text,true,,1751,159,5,5,https://reqres.in/api/users?page=2,152,0,100
+1677586212858,56,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-70,text,true,,994,154,5,5,https://reqres.in/api/users/2,56,0,0
+1677586207705,5210,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-65,text,true,,1751,159,5,5,https://reqres.in/api/users?page=2,5210,0,5151
+1677586212693,389,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-69,text,true,,739,231,5,5,https://reqres.in/api/users/2,389,0,0
+1677586212804,400,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-64,,true,,616,176,5,5,https://reqres.in/api/users/2,0,0,0
+1677586212915,308,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-65,text,true,,1000,154,4,4,https://reqres.in/api/users/2,308,0,0
+1677586212855,415,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-57,,true,,614,176,4,4,https://reqres.in/api/users/2,0,0,0
+1677586212915,388,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-70,text,true,,750,223,3,3,https://reqres.in/api/users,388,0,0
+1677586213223,418,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-65,text,true,,746,223,3,3,https://reqres.in/api/users,418,0,0
+1677586213303,413,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-70,text,true,,733,231,4,4,https://reqres.in/api/users/2,413,0,0
+1677586213082,660,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-69,,true,,614,176,4,4,https://reqres.in/api/users/2,0,0,0
+1677586213704,196,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-71,text,true,,1743,159,3,3,https://reqres.in/api/users?page=2,196,0,91
+1677586213900,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-71,text,true,,1000,154,3,3,https://reqres.in/api/users/2,48,0,0
+1677586213642,417,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-65,text,true,,735,231,3,3,https://reqres.in/api/users/2,417,0,0
+1677586213716,401,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-70,,true,,624,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586213949,391,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-71,text,true,,750,223,2,2,https://reqres.in/api/users,391,0,0
+1677586214060,400,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-65,,true,,618,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586214341,392,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-71,text,true,,733,231,2,2,https://reqres.in/api/users/2,392,0,0
+1677586214704,566,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-72,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,255,0,122
+1677586215271,61,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-72,text,true,,994,154,2,2,https://reqres.in/api/users/2,61,0,0
+1677586214733,647,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-71,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586215333,681,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-72,text,true,,744,223,2,2,https://reqres.in/api/users,681,0,0
+1677586215704,429,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-73,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,145,0,95
+1677586216133,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-73,text,true,,998,154,2,2,https://reqres.in/api/users/2,50,0,0
+1677586216015,437,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-72,text,true,,733,231,2,2,https://reqres.in/api/users/2,437,0,0
+1677586216184,414,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-73,text,true,,756,223,2,2,https://reqres.in/api/users,414,0,0
+1677586216452,414,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-72,,true,,612,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586216705,203,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-74,text,true,,1751,159,2,2,https://reqres.in/api/users?page=2,203,0,151
+1677586216908,52,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-74,text,true,,998,154,2,2,https://reqres.in/api/users/2,52,0,0
+1677586216598,406,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-73,text,true,,741,231,2,2,https://reqres.in/api/users/2,406,0,0
+1677586216961,419,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-74,text,true,,746,223,2,2,https://reqres.in/api/users,419,0,0
+1677586217381,408,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-74,text,true,,739,231,3,3,https://reqres.in/api/users/2,408,0,0
+1677586217704,153,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-75,text,true,,1747,159,3,3,https://reqres.in/api/users?page=2,153,0,100
+1677586217857,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-75,text,true,,996,154,3,3,https://reqres.in/api/users/2,49,0,0
+1677586217789,393,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-74,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586217906,408,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-75,text,true,,753,223,2,2,https://reqres.in/api/users,408,0,0
+1677586217004,1368,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-73,,true,,608,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586218314,413,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-75,text,true,,737,231,2,2,https://reqres.in/api/users/2,413,0,0
+1677586218727,393,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-75,,true,,616,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586218706,429,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-76,text,true,,1751,159,1,1,https://reqres.in/api/users?page=2,139,0,93
+1677586219135,51,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-76,text,true,,994,154,1,1,https://reqres.in/api/users/2,51,0,0
+1677586219186,399,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-76,text,true,,746,223,1,1,https://reqres.in/api/users,399,0,0
+1677586219704,143,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-77,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,143,0,92
+1677586219847,46,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-77,text,true,,992,154,2,2,https://reqres.in/api/users/2,46,0,0
+1677586219893,403,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-77,text,true,,744,223,2,2,https://reqres.in/api/users,403,0,0
+1677586219585,885,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-76,text,true,,743,231,2,2,https://reqres.in/api/users/2,885,0,0
+1677586220296,410,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-77,text,true,,737,231,3,3,https://reqres.in/api/users/2,410,0,0
+1677586220705,146,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-78,text,true,,1743,159,3,3,https://reqres.in/api/users?page=2,146,0,97
+1677586220852,47,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-78,text,true,,998,154,3,3,https://reqres.in/api/users/2,47,0,0
+1677586220706,388,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-77,,true,,612,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586220470,672,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-76,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586220900,414,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-78,text,true,,742,223,1,1,https://reqres.in/api/users,414,0,0
+1677586221314,395,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-78,text,true,,739,231,2,2,https://reqres.in/api/users/2,395,0,0
+1677586221705,155,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-79,text,true,,1749,159,2,2,https://reqres.in/api/users?page=2,155,0,103
+1677586221860,51,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-79,text,true,,1000,154,2,2,https://reqres.in/api/users/2,51,0,0
+1677586221710,390,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-78,,true,,610,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586221912,672,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-79,text,true,,751,223,1,1,https://reqres.in/api/users,672,0,0
+1677586222584,396,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-79,text,true,,735,231,2,2,https://reqres.in/api/users/2,396,0,0
+1677586222980,403,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-79,,true,,612,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586222705,1163,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-80,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,1163,0,1110
+1677586223868,306,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-80,text,true,,996,154,2,2,https://reqres.in/api/users/2,306,0,0
+1677586224174,388,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-80,text,true,,750,223,2,2,https://reqres.in/api/users,388,0,0
+1677586223705,1141,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-81,text,true,,1745,159,3,3,https://reqres.in/api/users?page=2,1141,0,1093
+1677586224706,156,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-82,text,true,,1759,159,3,3,https://reqres.in/api/users?page=2,155,0,93
+1677586224846,51,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-81,text,true,,996,154,3,3,https://reqres.in/api/users/2,51,0,0
+1677586224862,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-82,text,true,,1002,154,3,3,https://reqres.in/api/users/2,48,0,0
+1677586224562,413,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-80,text,true,,735,231,3,3,https://reqres.in/api/users/2,413,0,0
+1677586224911,394,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-82,text,true,,744,223,3,3,https://reqres.in/api/users,394,0,0
+1677586224975,389,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-80,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586225305,406,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-82,text,true,,733,231,3,3,https://reqres.in/api/users/2,406,0,0
+1677586224897,887,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-81,text,true,,742,223,3,3,https://reqres.in/api/users,887,0,0
+1677586225705,149,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-83,text,true,,1751,159,3,3,https://reqres.in/api/users?page=2,149,0,101
+1677586225854,51,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-83,text,true,,996,154,3,3,https://reqres.in/api/users/2,51,0,0
+1677586225713,391,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-82,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586225785,417,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-81,text,true,,739,231,2,2,https://reqres.in/api/users/2,417,0,0
+1677586225905,390,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-83,text,true,,750,223,2,2,https://reqres.in/api/users,390,0,0
+1677586226203,414,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-81,,true,,626,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586226295,417,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-83,text,true,,735,231,2,2,https://reqres.in/api/users/2,417,0,0
+1677586226706,205,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-84,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,205,0,100
+1677586226912,55,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-84,text,true,,998,154,2,2,https://reqres.in/api/users/2,55,0,0
+1677586226717,401,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-83,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586226968,643,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-84,text,true,,748,223,1,1,https://reqres.in/api/users,643,0,0
+1677586227704,148,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-85,text,true,,1749,159,2,2,https://reqres.in/api/users?page=2,148,0,98
+1677586227611,414,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-84,text,true,,743,231,2,2,https://reqres.in/api/users/2,414,0,0
+1677586227852,298,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-85,text,true,,1004,154,2,2,https://reqres.in/api/users/2,298,0,0
+1677586228026,394,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-84,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586228150,392,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-85,text,true,,748,223,1,1,https://reqres.in/api/users,392,0,0
+1677586228703,147,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-86,text,true,,1753,159,2,2,https://reqres.in/api/users?page=2,147,0,98
+1677586228851,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-86,text,true,,996,154,2,2,https://reqres.in/api/users/2,48,0,0
+1677586228543,386,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-85,text,true,,735,231,2,2,https://reqres.in/api/users/2,386,0,0
+1677586228900,391,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-86,text,true,,742,223,2,2,https://reqres.in/api/users,391,0,0
+1677586228929,388,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-85,,true,,610,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586229292,424,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-86,text,true,,743,231,2,2,https://reqres.in/api/users/2,424,0,0
+1677586229717,651,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-86,,true,,610,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586229704,1154,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-87,text,true,,1743,159,2,2,https://reqres.in/api/users?page=2,1154,0,1104
+1677586230704,443,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-88,text,true,,1749,159,2,2,https://reqres.in/api/users?page=2,443,0,394
+1677586230859,293,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-87,text,true,,998,154,2,2,https://reqres.in/api/users/2,293,0,0
+1677586231148,54,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-88,text,true,,998,154,2,2,https://reqres.in/api/users/2,54,0,0
+1677586231153,391,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-87,text,true,,746,223,2,2,https://reqres.in/api/users,391,0,0
+1677586231202,665,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-88,text,true,,750,223,3,3,https://reqres.in/api/users,665,0,0
+1677586231544,411,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-87,text,true,,735,231,3,3,https://reqres.in/api/users/2,411,0,0
+1677586231704,435,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-89,text,true,,1749,159,3,3,https://reqres.in/api/users?page=2,147,0,98
+1677586232140,48,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-89,text,true,,994,154,3,3,https://reqres.in/api/users/2,48,0,0
+1677586231955,409,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-87,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586232189,424,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-89,text,true,,748,223,2,2,https://reqres.in/api/users,424,0,0
+1677586232703,150,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-90,text,true,,1757,159,3,3,https://reqres.in/api/users?page=2,150,0,100
+1677586232613,391,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-89,text,true,,741,231,3,3,https://reqres.in/api/users/2,391,0,0
+1677586231868,1151,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-88,text,true,,739,231,3,3,https://reqres.in/api/users/2,1151,0,0
+1677586232853,298,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-90,text,true,,996,154,3,3,https://reqres.in/api/users/2,298,0,0
+1677586233019,386,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-88,,true,,612,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586233004,421,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-89,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586233152,388,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-90,text,true,,744,223,1,1,https://reqres.in/api/users,388,0,0
+1677586233540,389,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-90,text,true,,733,231,2,2,https://reqres.in/api/users/2,389,0,0
+1677586233705,440,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-91,text,true,,1749,159,2,2,https://reqres.in/api/users?page=2,146,0,97
+1677586234145,52,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-91,text,true,,996,154,2,2,https://reqres.in/api/users/2,52,0,0
+1677586233929,424,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-90,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586234198,653,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-91,text,true,,744,223,2,2,https://reqres.in/api/users,653,0,0
+1677586234704,147,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-92,text,true,,1741,159,2,2,https://reqres.in/api/users?page=2,147,0,96
+1677586234851,296,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-92,text,true,,994,154,2,2,https://reqres.in/api/users/2,296,0,0
+1677586234851,406,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-91,text,true,,733,231,2,2,https://reqres.in/api/users/2,406,0,0
+1677586235257,398,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-91,,true,,614,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586235147,643,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-92,text,true,,744,223,2,2,https://reqres.in/api/users,643,0,0
+1677586235791,401,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-92,text,true,,739,231,2,2,https://reqres.in/api/users/2,401,0,0
+1677586235705,731,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-93,text,true,,1741,159,2,2,https://reqres.in/api/users?page=2,445,0,395
+1677586236436,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-93,text,true,,1008,154,2,2,https://reqres.in/api/users/2,50,0,0
+1677586236192,668,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-92,,true,,616,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586236707,155,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-94,text,true,,1755,159,2,2,https://reqres.in/api/users?page=2,155,0,97
+1677586236487,403,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-93,text,true,,746,223,2,2,https://reqres.in/api/users,403,0,0
+1677586236862,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-94,text,true,,996,154,2,2,https://reqres.in/api/users/2,49,0,0
+1677586236890,402,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-93,text,true,,735,231,2,2,https://reqres.in/api/users/2,402,0,0
+1677586236911,641,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-94,text,true,,750,223,2,2,https://reqres.in/api/users,641,0,0
+1677586237292,408,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-93,,true,,608,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586237703,153,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-95,text,true,,1745,159,2,2,https://reqres.in/api/users?page=2,153,0,96
+1677586237856,49,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-95,text,true,,996,154,2,2,https://reqres.in/api/users/2,49,0,0
+1677586237552,402,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-94,text,true,,737,231,2,2,https://reqres.in/api/users/2,402,0,0
+1677586237906,387,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-95,text,true,,741,223,2,2,https://reqres.in/api/users,387,0,0
+1677586237954,412,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-94,,true,,608,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586238293,398,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-95,text,true,,731,231,1,1,https://reqres.in/api/users/2,398,0,0
+1677586238703,141,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-96,text,true,,1747,159,2,2,https://reqres.in/api/users?page=2,141,0,91
+1677586238691,416,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-95,,true,,612,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586238844,292,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-96,text,true,,996,154,1,1,https://reqres.in/api/users/2,292,0,0
+1677586239136,596,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-96,text,true,,742,223,2,2,https://reqres.in/api/users,596,0,0
+1677586239733,634,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-96,text,true,,743,231,2,2,https://reqres.in/api/users/2,634,0,0
+1677586240367,605,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-96,,true,,620,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586240704,1192,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-98,text,true,,1751,159,3,3,https://reqres.in/api/users?page=2,1192,0,891
+1677586241896,868,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-98,text,true,,992,154,4,4,https://reqres.in/api/users/2,868,0,0
+1677586242703,154,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-100,text,true,,1745,159,4,4,https://reqres.in/api/users?page=2,153,0,103
+1677586242857,54,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-100,text,true,,1008,154,4,4,https://reqres.in/api/users/2,54,0,0
+1677586242764,402,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-98,text,true,,748,223,4,4,https://reqres.in/api/users,402,0,0
+1677586241705,1647,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-99,text,true,,1747,159,4,4,https://reqres.in/api/users?page=2,1647,0,1111
+1677586243352,50,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-99,text,true,,1000,154,4,4,https://reqres.in/api/users/2,50,0,0
+1677586243167,403,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-98,text,true,,737,231,4,4,https://reqres.in/api/users/2,403,0,0
+1677586242911,889,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-100,text,true,,744,223,4,4,https://reqres.in/api/users,889,0,0
+1677586243402,415,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-99,text,true,,750,223,4,4,https://reqres.in/api/users,415,0,0
+1677586243570,401,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-98,,true,,610,176,4,4,https://reqres.in/api/users/2,0,0,0
+1677586243801,389,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-100,text,true,,741,231,3,3,https://reqres.in/api/users/2,389,0,0
+1677586239704,4541,GET List Users,200,OK,100 users - 100 seconds - 1 loop 1-97,text,true,,1747,159,3,3,https://reqres.in/api/users?page=2,961,0,663
+1677586244245,60,GET Single User,200,OK,100 users - 100 seconds - 1 loop 1-97,text,true,,1002,154,3,3,https://reqres.in/api/users/2,60,0,0
+1677586243817,669,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-99,text,true,,735,231,3,3,https://reqres.in/api/users/2,669,0,0
+1677586244191,400,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-100,,true,,614,176,3,3,https://reqres.in/api/users/2,0,0,0
+1677586244486,400,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-99,,true,,616,176,2,2,https://reqres.in/api/users/2,0,0,0
+1677586244305,1223,POST Create User,201,Created,100 users - 100 seconds - 1 loop 1-97,text,true,,738,223,1,1,https://reqres.in/api/users,1223,0,0
+1677586245529,416,PUT Update User,200,OK,100 users - 100 seconds - 1 loop 1-97,text,true,,743,231,1,1,https://reqres.in/api/users/2,416,0,0
+1677586245946,421,DELETE Delete User,204,No Content,100 users - 100 seconds - 1 loop 1-97,,true,,616,176,1,1,https://reqres.in/api/users/2,0,0,0
